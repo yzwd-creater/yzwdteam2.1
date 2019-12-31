@@ -31,8 +31,8 @@
   <h2><span class="icon-pencil-square-o"></span>栏目管理</h2>
   <ul>
     <li><a href="CarServlet" target="right"><span class="icon-caret-right"></span>车辆展示</a></li>
-    <li><a href="UserServlet?methoh=" target="right"><span class="icon-caret-right"></span>用户信息</a></li>
-    <li><a href="add.jsp" target="right"><span class="icon-caret-right"></span>添加内容</a></li>
+    <li><a href="UserServlet?methoh=" target="right"><span class="icon-caret-right"></span>显示用户信息</a></li>
+    <li><a href="UserAdd.jsp" target="right"><span class="icon-caret-right"></span>用户添加</a></li>
     <li><a href="cate.jsp" target="right"><span class="icon-caret-right"></span>分类管理</a></li>        
   </ul>  
 </div>
